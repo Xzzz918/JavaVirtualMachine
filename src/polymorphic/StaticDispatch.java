@@ -31,3 +31,7 @@ public class StaticDispatch {
         sd.sayHello(woman);
     }
 }
+/*outputs:
+Hello, guy!
+Hello, guy!
+* */
