@@ -40,3 +40,7 @@ public class OverLoad {
         sayHello('a');
     }
 }
+/*
+  outputs:
+  hello char
+  */
